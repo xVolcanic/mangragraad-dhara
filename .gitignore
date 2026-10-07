@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+# Original source assets are preserved locally; deployable copies live in public.
+/*.jpeg
+/*.mp4
+/*.glb
+/build_dhara.py
